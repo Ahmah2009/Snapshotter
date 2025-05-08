@@ -1,0 +1,13 @@
+{
+  "name": "snapshotter",
+  "version": "1.0.0",
+  "main": "screenshot-runner.js",
+  "type": "module",
+  "scripts": {
+    "start": "node screenshot-runner.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "playwright": "^1.43.0"
+  }
+}

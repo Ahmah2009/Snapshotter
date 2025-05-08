@@ -1,0 +1,6 @@
+/screenshots
+.env
+node_modules/
+auth/
+.DS_Store
+package-lock.json

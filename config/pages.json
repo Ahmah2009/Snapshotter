@@ -1,0 +1,9 @@
+{
+  "baseUrl": "0.0.0.0:8000",
+  "pages": [
+    { "path": "/", "auth": true },
+    { "path": "/recipes", "auth": false },
+    { "path": "/login", "auth": false },
+    { "path": "/signup", "auth": false }
+  ]
+}
